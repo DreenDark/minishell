@@ -86,4 +86,4 @@ test.txt
 👨‍💻 Author
 
 Amirreza
-Cybersecurity Student | Reverse Engineering Enthusiast
+Reverse Engineering Enthusiast
